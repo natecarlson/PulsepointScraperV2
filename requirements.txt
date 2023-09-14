@@ -2,3 +2,24 @@ geopy
 googlemaps
 notifiers
 JSON4JSON
+
+
+cryptography
+colorama
+pymongo
+pytz
+
+pandas
+haversine
+flask
+flask_restful
+flask_httpauth
+flask_cors
+folium
+
+# Older version so that json without application/json works
+werkzeug==2.0.3
+# Older version to avoid import error
+itsdangerous==2.0.1
+email_validator
+

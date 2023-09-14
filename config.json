@@ -6,7 +6,9 @@
         "locationbased"
     ],
     "events": [
-        "events_default"
+        "events_default",
+        "events_rest_api",
+        "map_events"
     ],
     "agencies": [
         "00291",
